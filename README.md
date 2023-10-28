@@ -14,7 +14,6 @@
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity)
-![.NET](https://img.shields.io/badge/-.NET-000000?style=flat&logo=.net)
 
 ### Tools
 ![Rider](https://img.shields.io/badge/-Rider-000000?style=flat&logo=rider)
