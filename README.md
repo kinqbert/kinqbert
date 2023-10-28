@@ -1,13 +1,10 @@
 ![Header](assets/banner.gif)
 
----
-
-### About me
+## About me
 
 - 📓 Second year CS student in Kyiv Polytechnic Institute
 - 💻 Currently learning Rust and improving C#
-
----
+- 🎨 UI/UX designer
 
 ### Skills
 
@@ -19,8 +16,11 @@
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity)
 ![.NET](https://img.shields.io/badge/-.NET-000000?style=flat&logo=.net)
 
-
----
+### Tools
+![Rider](https://img.shields.io/badge/-Rider-000000?style=flat&logo=rider)
+![Clion](https://img.shields.io/badge/-Clion-000000?style=flat&logo=clion)
+![RustRover](https://img.shields.io/badge/-RustRover-000000?style=flat&logo=rust)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000000?style=flat&logo=visual-studio-code)
 
 ### Contact me
 
