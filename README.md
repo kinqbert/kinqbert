@@ -10,7 +10,7 @@
 
 ![C#](https://img.shields.io/badge/-C%23-000000?style=flat&logo=c-sharp)
 ![C++](https://img.shields.io/badge/-C%2B%2B-000000?style=flat&logo=c%2B%2B)
-![JavaScript](https://img.shields.io/badge/-Rust-000000?style=flat&logo=js)
+![JavaScript](https://img.shields.io/badge/-Rust-000000?style=flat&logo=javscript)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity)
