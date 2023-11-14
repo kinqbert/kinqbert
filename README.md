@@ -3,14 +3,14 @@
 ## About me
 
 - 📓 Second year CS student in Kyiv Polytechnic Institute
-- 💻 Currently learning Rust and improving C#
+- 💻 Currently learning JavaScript and improving C#
 - 🎨 UI/UX designer
 
 ### Skills
 
 ![C#](https://img.shields.io/badge/-C%23-000000?style=flat&logo=c-sharp)
 ![C++](https://img.shields.io/badge/-C%2B%2B-000000?style=flat&logo=c%2B%2B)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust)
+![JavaScript](https://img.shields.io/badge/-Rust-000000?style=flat&logo=js)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity)
