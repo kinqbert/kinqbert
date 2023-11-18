@@ -11,14 +11,16 @@
 ![C#](https://img.shields.io/badge/-C%23-000000?style=flat&logo=c-sharp)
 ![C++](https://img.shields.io/badge/-C%2B%2B-000000?style=flat&logo=c%2B%2B)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity)
 
 ### Tools
 ![Rider](https://img.shields.io/badge/-Rider-000000?style=flat&logo=rider)
-![Clion](https://img.shields.io/badge/-Clion-000000?style=flat&logo=clion)
 ![WebStorm](https://img.shields.io/badge/-WebStorm-000000?style=flat&logo=webstorm)
+![Clion](https://img.shields.io/badge/-Clion-000000?style=flat&logo=clion)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000000?style=flat&logo=visual-studio-code)
 
 ### Contact me
