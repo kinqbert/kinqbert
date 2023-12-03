@@ -8,7 +8,7 @@
 
 ### Skills
 
-![C#](https://img.shields.io/badge/-C%23-000000?style=flat&logo=c-sharp)
+![csharp](https://img.shields.io/badge/-C%23-000000?style=flat&logo=csharp)
 ![C++](https://img.shields.io/badge/-C%2B%2B-000000?style=flat&logo=c%2B%2B)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=html5)
