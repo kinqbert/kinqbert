@@ -14,6 +14,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity)
 
