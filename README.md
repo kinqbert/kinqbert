@@ -4,7 +4,7 @@
 
 - 📓 Second year CS student in Kyiv Polytechnic Institute
 - 💻 Full-stack 
-- 🎨 UI/UX designer
+- 🎨 Web Designer
 
 ### Skills
 
