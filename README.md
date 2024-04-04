@@ -1,4 +1,4 @@
-<img src="./assets/banner.gif">
+<img src="./assets/header.png">
 
 <h1>About me</h1>
 <ul>
