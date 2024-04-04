@@ -20,31 +20,41 @@
 
 <h3>Back-end</h3>
 
-<img height="24px" src="https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js" />
-<img height="24px" src="https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql" />
+<div>
+  <img height="24px" src="https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js" />
+  <img height="24px" src="https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql" />
+</div>
 
 <h3>Tools</h3>
 
-<img height="24px" src="https://img.shields.io/badge/-Git-000000?style=flat&logo=git" />
-<img height="24px" src="https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github" />
-<img height="24px" src="https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker" />
-<img height="24px" src="https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma" />
-<img height="24px" src="https://img.shields.io/badge/-Photoshop-000000?style=flat&logo=adobe-photoshop" />
+<div>
+  <img height="24px" src="https://img.shields.io/badge/-Git-000000?style=flat&logo=git" />
+  <img height="24px" src="https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github" />
+  <img height="24px" src="https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker" />
+  <img height="24px" src="https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma" />
+  <img height="24px" src="https://img.shields.io/badge/-Photoshop-000000?style=flat&logo=adobe-photoshop" />
+</div>
 
 <h3>Other skills</h3>
 
-<img height="24px" src="https://img.shields.io/badge/-C%23-000000?style=flat&logo=csharp" />
-<img height="24px" src="https://img.shields.io/badge/-C%2B%2B-000000?style=flat&logo=c%2B%2B" />
+<div>
+  <img height="24px" src="https://img.shields.io/badge/-C%23-000000?style=flat&logo=csharp" />
+  <img height="24px" src="https://img.shields.io/badge/-C%2B%2B-000000?style=flat&logo=c%2B%2B" />
+</div>
 
 <h3>Plans for the future</h3>
 
-<img height="24px" src="https://img.shields.io/badge/-React-000000?style=flat&logo=react" />
-<img height="24px" src="https://img.shields.io/badge/-Vue.js-000000?style=flat&logo=vue.js" />
-<img height="24px" src="https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular" />
-<img height="24px" src="https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux" />
+<div>
+  <img height="24px" src="https://img.shields.io/badge/-React-000000?style=flat&logo=react" />
+  <img height="24px" src="https://img.shields.io/badge/-Vue.js-000000?style=flat&logo=vue.js" />
+  <img height="24px" src="https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular" />
+  <img height="24px" src="https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux" />
+</div>
 
 <h1>Contact me</h1>
 
-<a href="https://www.linkedin.com/in/maksym-perekhodko/"><img height="24px" src="https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=linkedin" /></a>
-<a href="mailto:perekhodkomail@gmail.com"><img height="24px" src="https://img.shields.io/badge/-Email-000000?style=flat&logo=gmail" /></a>
-<a href="https://discordapp.com/users/kinqbert/"><img height="24px" src="https://img.shields.io/badge/-Discord-000000?style=flat&logo=discord&logoColor=white" /></a>
+<div>
+  <a href="https://www.linkedin.com/in/maksym-perekhodko/"><img height="24px" src="https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=linkedin" /></a>
+  <a href="mailto:perekhodkomail@gmail.com"><img height="24px" src="https://img.shields.io/badge/-Email-000000?style=flat&logo=gmail" /></a>
+  <a href="https://discordapp.com/users/kinqbert/"><img height="24px" src="https://img.shields.io/badge/-Discord-000000?style=flat&logo=discord&logoColor=white" /></a>
+</div>
