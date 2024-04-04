@@ -3,7 +3,7 @@
 ## About me
 
 - 📓 Second year CS student in Kyiv Polytechnic Institute
-- 💻 Full-stack 
+- 💻 Full-stack developer
 - 🎨 Web Designer
 
 ### Skills
@@ -28,5 +28,5 @@
 ### Contact me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=linkedin)](https://www.linkedin.com/in/maksym-perekhodko/)
-[![Telegram](https://img.shields.io/badge/-Telegram-000000?style=flat&logo=telegram)](https://t.me/kinqbert)
+[![Email](https://img.shields.io/badge/-Email-000000?style=flat&logo=gmail)](mailto:perekhodkomail@gmail.com)
 [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/kinqbert)
