@@ -51,10 +51,11 @@
   <img height="24px" src="https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux" />
 </div>
 
-<h1>Contact me</h1>
+<h1>My contacts</h1>
 
 <div>
   <a href="https://www.linkedin.com/in/maksym-perekhodko/"><img height="24px" src="https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=linkedin" /></a>
   <a href="mailto:perekhodkomail@gmail.com"><img height="24px" src="https://img.shields.io/badge/-Email-000000?style=flat&logo=gmail" /></a>
   <a href="https://discordapp.com/users/kinqbert/"><img height="24px" src="https://img.shields.io/badge/-Discord-000000?style=flat&logo=discord&logoColor=white" /></a>
+  <a href="https://leetcode.com/kinqbert/"><img height="24px" src="https://img.shields.io/badge/-LeetCode-000000?style=flat&logo=leetcode" /></a>
 </div>
