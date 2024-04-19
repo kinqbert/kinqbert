@@ -25,7 +25,6 @@
   <img height="24px" src="https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js" />
   <img height="24px" src="https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql" />
 </div>
-
 <h3>Tools</h3>
 
 <div>
@@ -34,6 +33,7 @@
   <img height="24px" src="https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker" />
   <img height="24px" src="https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma" />
   <img height="24px" src="https://img.shields.io/badge/-Photoshop-000000?style=flat&logo=adobe-photoshop" />
+  <img height="24px" src="https://img.shields.io/badge/-npm-000000?style=flat&logo=npm" />
 </div>
 
 <h3>Other skills</h3>
