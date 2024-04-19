@@ -16,6 +16,7 @@
   <img height="24px" src="https://img.shields.io/badge/-HTML-000000?style=flat&logo=html5" />
   <img height="24px" src="https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3" />
   <img height="24px" src="https://img.shields.io/badge/-SCSS-000000?style=flat&logo=sass" />
+  <img height="24px" src="https://img.shields.io/badge/-React-000000?style=flat&logo=react" />
 </div>
 
 <h3>Back-end</h3>
@@ -45,7 +46,6 @@
 <h3>Plans for the future</h3>
 
 <div>
-  <img height="24px" src="https://img.shields.io/badge/-React-000000?style=flat&logo=react" />
   <img height="24px" src="https://img.shields.io/badge/-Vue.js-000000?style=flat&logo=vue.js" />
   <img height="24px" src="https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular" />
   <img height="24px" src="https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux" />
