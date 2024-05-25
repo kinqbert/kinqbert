@@ -4,7 +4,6 @@
 <ul>
   <li>📓 Second year CS student in Kyiv Polytechnic Institute</li>
   <li>💻 Full-stack developer</li>
-  <li>🎨 Web Designer</li>
 </ul>
 
 <h1>Skills</h1>
