@@ -4,7 +4,6 @@
 <ul>
   <li>📓 Second year CS student in Kyiv Polytechnic Institute</li>
   <li>💻 Full-stack developer</li>
-  <li>🎨 Web Designer</li>
 </ul>
 
 <h1>Skills</h1>
@@ -59,6 +58,5 @@
   <a href="https://www.linkedin.com/in/maksym-perekhodko/"><img height="24px" src="https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=linkedin" /></a>
   <a href="mailto:perekhodkomail@gmail.com"><img height="24px" src="https://img.shields.io/badge/-Email-000000?style=flat&logo=gmail" /></a>
   <a href="https://discordapp.com/users/kinqbert/"><img height="24px" src="https://img.shields.io/badge/-Discord-000000?style=flat&logo=discord&logoColor=white" /></a>
-  <a href="https://www.frontendmentor.io/profile/kinqbert"><img height="24px" src="https://img.shields.io/badge/-Frontend%20Mentor-000000?style=flat&logo=frontendmentor" /></a>
   
 </div>
