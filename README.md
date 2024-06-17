@@ -13,6 +13,7 @@
 
 <div>
   <img height="24px" src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript" />
+  <img height="24px" src="https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript" />
   <img height="24px" src="https://img.shields.io/badge/-HTML-000000?style=flat&logo=html5" />
   <img height="24px" src="https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3" />
   <img height="24px" src="https://img.shields.io/badge/-SCSS-000000?style=flat&logo=sass" />
