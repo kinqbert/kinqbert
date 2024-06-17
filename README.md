@@ -2,7 +2,7 @@
 
 <h1>About me</h1>
 <ul>
-  <li>📓 Second year CS student in Kyiv Polytechnic Institute</li>
+  <li>📓 Two years of programming experience</li>
   <li>💻 Full-stack developer</li>
 </ul>
 
