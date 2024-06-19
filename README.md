@@ -62,7 +62,6 @@
 <div>
   <img height="24px" src="https://img.shields.io/badge/-Vue.js-000000?style=flat&logo=vue.js" />
   <img height="24px" src="https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular" />
-  <img height="24px" src="https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux" />
 </div>
 
 <h1>Projects</h1>
