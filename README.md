@@ -106,5 +106,4 @@
   <a href="https://t.me/perekhodko_m"><img height="24px" src="https://img.shields.io/badge/-Telegram-000000?style=flat&logo=telegram" /></a>
   <a href="https://www.linkedin.com/in/maksym-perekhodko/"><img height="24px" src="https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=linkedin" /></a>
   <a href="mailto:perekhodko.maksym@gmail.com"><img height="24px" src="https://img.shields.io/badge/-Email-000000?style=flat&logo=gmail" /></a>
-  <a href="https://discordapp.com/users/kinqbert/"><img height="24px" src="https://img.shields.io/badge/-Discord-000000?style=flat&logo=discord&logoColor=white" /></a>
 </div>
