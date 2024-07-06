@@ -1,4 +1,4 @@
-<img src="./assets/header.png">
+<img src="./assets/banner.png">
 
 <h1>About me</h1>
 <ul>
@@ -13,14 +13,15 @@
 <h3>Front-end</h3>
 
 <div>
+  <img height="24px" src="https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5" />
+  <img height="24px" src="https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3" />
   <img height="24px" src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript" />
   <img height="24px" src="https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript" />
-  <img height="24px" src="https://img.shields.io/badge/-HTML-000000?style=flat&logo=html5" />
-  <img height="24px" src="https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3" />
-  <img height="24px" src="https://img.shields.io/badge/-SCSS-000000?style=flat&logo=sass" />
   <img height="24px" src="https://img.shields.io/badge/-React-000000?style=flat&logo=react" />
   <img height="24px" src="https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux" />
+  <img height="24px" src="https://img.shields.io/badge/-Sass(SCSS)-000000?style=flat&logo=sass" />
   <img height="24px" src="https://img.shields.io/badge/-BEM-000000?style=flat" />
+  <img height="24px" src="https://img.shields.io/badge/-Zustand-000000?style=flat" />
   <img height="24px" src="https://img.shields.io/badge/-Bulma-000000?style=flat&logo=bulma" />
   <img height="24px" src="https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap" />
   <img height="24px" src="https://img.shields.io/badge/-Webpack-000000?style=flat&logo=webpack" />
@@ -32,18 +33,20 @@
 
 <div>
   <img height="24px" src="https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js" />
-  <img height="24px" src="https://img.shields.io/badge/-NPM-000000?style=flat&logo=npm" />
+  <img height="24px" src="https://img.shields.io/badge/-Express-000000?style=flat&logo=express" />
   <img height="24px" src="https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql" />
   <img height="24px" src="https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql" />
+  <img height="24px" src="https://img.shields.io/badge/-Sequelize-000000?style=flat&logo=sequelize" />
 </div>
 
 <h3>Tools</h3>
 
 <div>
   <img height="24px" src="https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma" />
+  <img height="24px" src="https://img.shields.io/badge/-NPM-000000?style=flat&logo=npm" />
+  <img height="24px" src="https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker" />
   <img height="24px" src="https://img.shields.io/badge/-Git-000000?style=flat&logo=git" />
   <img height="24px" src="https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github" />
-  <img height="24px" src="https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker" />
   <img height="24px" src="https://img.shields.io/badge/-VS_Code-000000?style=flat&logo=visual-studio-code" />
   <img height="24px" src="https://img.shields.io/badge/-Photoshop-000000?style=flat&logo=adobe-photoshop" />
 </div>
@@ -51,18 +54,12 @@
 <h3>Other skills</h3>
 
 <div>
-  <img height="24px" src="https://img.shields.io/badge/-C%23-000000?style=flat&logo=csharp" />
   <img height="24px" src="https://img.shields.io/badge/-C%2B%2B-000000?style=flat&logo=c%2B%2B" />
+  <img height="24px" src="https://img.shields.io/badge/-C%23-000000?style=flat&logo=csharp" />
   <img height="24px" src="https://img.shields.io/badge/-OOP-000000?style=flat" />
   <img height="24px" src="https://img.shields.io/badge/-Algorithms-000000?style=flat" />
 </div>
 
-<h3>Plans for the future</h3>
-
-<div>
-  <img height="24px" src="https://img.shields.io/badge/-Vue.js-000000?style=flat&logo=vue.js" />
-  <img height="24px" src="https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular" />
-</div>
 
 <h1>Projects</h1>
 
