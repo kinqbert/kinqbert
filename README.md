@@ -11,26 +11,22 @@
 <h1>Skills</h1>
 
 <h3>Front-end</h3>
-
 <div>
   <img height="24px" src="https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5" />
   <img height="24px" src="https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3" />
   <img height="24px" src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript" />
   <img height="24px" src="https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript" />
   <img height="24px" src="https://img.shields.io/badge/-React-000000?style=flat&logo=react" />
-  <img height="24px" src="https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux" />
   <img height="24px" src="https://img.shields.io/badge/-Sass(SCSS)-000000?style=flat&logo=sass" />
   <img height="24px" src="https://img.shields.io/badge/-BEM-000000?style=flat" />
   <img height="24px" src="https://img.shields.io/badge/-Zustand-000000?style=flat" />
   <img height="24px" src="https://img.shields.io/badge/-Bulma-000000?style=flat&logo=bulma" />
   <img height="24px" src="https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap" />
-  <img height="24px" src="https://img.shields.io/badge/-Webpack-000000?style=flat&logo=webpack" />
   <img height="24px" src="https://img.shields.io/badge/-Vite-000000?style=flat&logo=vite" />
   <img height="24px" src="https://img.shields.io/badge/-REST_API-000000?style=flat" />
 </div>
 
 <h3>Back-end</h3>
-
 <div>
   <img height="24px" src="https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js" />
   <img height="24px" src="https://img.shields.io/badge/-Express-000000?style=flat&logo=express" />
@@ -40,7 +36,6 @@
 </div>
 
 <h3>Tools</h3>
-
 <div>
   <img height="24px" src="https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma" />
   <img height="24px" src="https://img.shields.io/badge/-NPM-000000?style=flat&logo=npm" />
@@ -52,7 +47,6 @@
 </div>
 
 <h3>Other skills</h3>
-
 <div>
   <img height="24px" src="https://img.shields.io/badge/-C%2B%2B-000000?style=flat&logo=c%2B%2B" />
   <img height="24px" src="https://img.shields.io/badge/-C%23-000000?style=flat&logo=csharp" />
@@ -60,6 +54,11 @@
   <img height="24px" src="https://img.shields.io/badge/-Algorithms-000000?style=flat" />
 </div>
 
+<h3>Learning Now</h3>
+<div>
+  <img height="24px" src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js" />
+  <img height="24px" src="https://img.shields.io/badge/-Tailwind-000000?style=flat&logo=tailwindcss" />
+</div>
 
 <h1>Projects</h1>
 
@@ -93,12 +92,10 @@
 <ul>
   <li>HTML</li>
   <li>Sass (SCSS)</li>
-  <li>BEM</li>
-</ul>
+  <li>BEM</ul>
 <a href="https://kinqbert.github.io/my-bike-landing/">Demo</a> | <a href="https://github.com/kinqbert/my-bike-landing">Code</a>
 
 <h1>My contacts</h1>
-
 <div>
   <a href="https://t.me/perekhodko_m"><img height="24px" src="https://img.shields.io/badge/-Telegram-000000?style=flat&logo=telegram" /></a>
   <a href="https://www.linkedin.com/in/maksym-perekhodko/"><img height="24px" src="https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=linkedin" /></a>
