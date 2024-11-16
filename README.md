@@ -17,6 +17,7 @@
   <img height="24px" src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript" />
   <img height="24px" src="https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript" />
   <img height="24px" src="https://img.shields.io/badge/-React-000000?style=flat&logo=react" />
+ <img height="24px" src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js" />
   <img height="24px" src="https://img.shields.io/badge/-Sass(SCSS)-000000?style=flat&logo=sass" />
   <img height="24px" src="https://img.shields.io/badge/-BEM-000000?style=flat" />
   <img height="24px" src="https://img.shields.io/badge/-Zustand-000000?style=flat" />
@@ -24,7 +25,6 @@
   <img height="24px" src="https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap" />
   <img height="24px" src="https://img.shields.io/badge/-Vite-000000?style=flat&logo=vite" />
   <img height="24px" src="https://img.shields.io/badge/-REST_API-000000?style=flat" />
-  <img height="24px" src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js" />
 </div>
 
 <h3>Back-end</h3>
