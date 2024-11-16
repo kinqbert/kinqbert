@@ -24,6 +24,7 @@
   <img height="24px" src="https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap" />
   <img height="24px" src="https://img.shields.io/badge/-Vite-000000?style=flat&logo=vite" />
   <img height="24px" src="https://img.shields.io/badge/-REST_API-000000?style=flat" />
+  <img height="24px" src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js" />
 </div>
 
 <h3>Back-end</h3>
@@ -52,13 +53,7 @@
   <img height="24px" src="https://img.shields.io/badge/-C%23-000000?style=flat&logo=csharp" />
   <img height="24px" src="https://img.shields.io/badge/-OOP-000000?style=flat" />
   <img height="24px" src="https://img.shields.io/badge/-Algorithms-000000?style=flat" />
-</div>
-
-<h3>Learning Now</h3>
-<div>
-  <img height="24px" src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js" />
-  <img height="24px" src="https://img.shields.io/badge/-Tailwind-000000?style=flat&logo=tailwindcss" />
-</div>
+</div>
 
 <h1>Projects</h1>
 
