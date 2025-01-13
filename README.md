@@ -26,7 +26,6 @@
   <img height="24px" src="https://img.shields.io/badge/-Vite-000000?style=flat&logo=vite" />
   <img height="24px" src="https://img.shields.io/badge/-REST_API-000000?style=flat" />
   <img height="24px" src="https://img.shields.io/badge/-Chakra_UI-000000?style=flat&logo=chakraui" />
-  <img height="24px" src="https://img.shields.io/badge/-React_Hooks-000000?style=flat&logo=react" />
 </div>
 
 <h3>Back-end</h3>
