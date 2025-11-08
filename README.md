@@ -2,10 +2,10 @@
 
 <h1>About me</h1>
 <ul>
-  <li>📓 Two years of programming experience</li>
-  <li>💻 Full-stack developer specializing in web development</li>
-  <li>🌍 English proficiency at C1 level</li>
-  <li>👨‍💻 Strong leadership skills with experience in leading project teams</li>
+  <li>Full-stack developer with 1.5 years of professional experience in modern web technologies</li>
+  <li>Strong focus on clean architecture, maintainability, and performance optimization</li>
+  <li>Advanced English proficiency (C1 level)</li>
+  <li>Proven leadership and collaboration skills within development teams</li>
 </ul>
 
 <h1>Skills</h1>
@@ -18,12 +18,13 @@
   <img height="24px" src="https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript" />
   <img height="24px" src="https://img.shields.io/badge/-React-000000?style=flat&logo=react" />
   <img height="24px" src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js" />
+  <img height="24px" src="https://img.shields.io/badge/-Svelte-000000?style=flat&logo=svelte" />
+  <img height="24px" src="https://img.shields.io/badge/-Vite-000000?style=flat&logo=vite" />
   <img height="24px" src="https://img.shields.io/badge/-Sass(SCSS)-000000?style=flat&logo=sass" />
   <img height="24px" src="https://img.shields.io/badge/-BEM-000000?style=flat" />
   <img height="24px" src="https://img.shields.io/badge/-Zustand-000000?style=flat" />
   <img height="24px" src="https://img.shields.io/badge/-Bulma-000000?style=flat&logo=bulma" />
   <img height="24px" src="https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap" />
-  <img height="24px" src="https://img.shields.io/badge/-Vite-000000?style=flat&logo=vite" />
   <img height="24px" src="https://img.shields.io/badge/-REST_API-000000?style=flat" />
   <img height="24px" src="https://img.shields.io/badge/-Chakra_UI-000000?style=flat&logo=chakraui" />
 </div>
@@ -32,11 +33,15 @@
 <div>
   <img height="24px" src="https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js" />
   <img height="24px" src="https://img.shields.io/badge/-Express-000000?style=flat&logo=express" />
+  <img height="24px" src="https://img.shields.io/badge/-NestJS-000000?style=flat&logo=nestjs" />
+  <img height="24px" src="https://img.shields.io/badge/-Drizzle_ORM-000000?style=flat&logo=drizzle" />
+  <img height="24px" src="https://img.shields.io/badge/-Prisma-000000?style=flat&logo=prisma" />
   <img height="24px" src="https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql" />
   <img height="24px" src="https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql" />
-  <img height="24px" src="https://img.shields.io/badge/-Sequelize-000000?style=flat&logo=sequelize" />
   <img height="24px" src="https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb" />
-  <img height="24px" src="https://img.shields.io/badge/-Mongoose-000000?style=flat&logo=mongodb" />
+  <img height="24px" src="https://img.shields.io/badge/-Sequelize-000000?style=flat&logo=sequelize" />
+  <img height="24px" src="https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens" />
+  <img height="24px" src="https://img.shields.io/badge/-OAuth-000000?style=flat&logo=auth0" />
 </div>
 
 <h3>Tools</h3>
@@ -50,15 +55,28 @@
   <img height="24px" src="https://img.shields.io/badge/-Photoshop-000000?style=flat&logo=adobe-photoshop" />
 </div>
 
-<h3>Other skills</h3>
+<h3>Other Skills</h3>
 <div>
-  <img height="24px" src="https://img.shields.io/badge/-C%2B%2B-000000?style=flat&logo=c%2B%2B" />
-  <img height="24px" src="https://img.shields.io/badge/-C%23-000000?style=flat&logo=csharp" />
   <img height="24px" src="https://img.shields.io/badge/-OOP-000000?style=flat" />
   <img height="24px" src="https://img.shields.io/badge/-Algorithms-000000?style=flat" />
+  <img height="24px" src="https://img.shields.io/badge/-Parallel_Computing-000000?style=flat" />
+  <img height="24px" src="https://img.shields.io/badge/-OpenAI_API-000000?style=flat&logo=openai" />
 </div>
 
 <h1>Projects</h1>
+
+<!-- <h3>Syncr (Collaboration Platform)</h3>
+<p>Full-stack web app that helps teams and companies to integrate with real-time collaborative features and company-based workspace management. Built with NestJS, Drizzle ORM, PostgreSQL, and powered Svelte front-end.</p>
+<ul>
+  <li>Svelte</li>
+  <li>TypeScript</li>
+  <li>Vite</li>
+  <li>NestJS</li>
+  <li>Drizzle ORM</li>
+  <li>PostgreSQL</li>
+  <li>JWT Authentication</li>
+</ul>
+<a href="#">Demo (coming soon)</a> | <a href="#">Code</a> -->
 
 <h3>Nice Gadgets Store</h3>
 <p>Sleek and user-friendly shop for browsing mobile phones and other devices. It features a clean interface with search, filter, and sorting options, providing detailed phone specifications and images.</p>
