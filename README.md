@@ -17,16 +17,12 @@
   <img height="24px" src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript" />
   <img height="24px" src="https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript" />
   <img height="24px" src="https://img.shields.io/badge/-React-000000?style=flat&logo=react" />
-  <img height="24px" src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js" />
-  <img height="24px" src="https://img.shields.io/badge/-Svelte-000000?style=flat&logo=svelte" />
   <img height="24px" src="https://img.shields.io/badge/-Vite-000000?style=flat&logo=vite" />
   <img height="24px" src="https://img.shields.io/badge/-Sass(SCSS)-000000?style=flat&logo=sass" />
-  <img height="24px" src="https://img.shields.io/badge/-BEM-000000?style=flat" />
   <img height="24px" src="https://img.shields.io/badge/-Zustand-000000?style=flat" />
-  <img height="24px" src="https://img.shields.io/badge/-Bulma-000000?style=flat&logo=bulma" />
-  <img height="24px" src="https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap" />
-  <img height="24px" src="https://img.shields.io/badge/-REST_API-000000?style=flat" />
+  <img height="24px" src="https://img.shields.io/badge/-Material_UI-000000?style=flat&logo=mui" />
   <img height="24px" src="https://img.shields.io/badge/-Chakra_UI-000000?style=flat&logo=chakraui" />
+  <img height="24px" src="https://img.shields.io/badge/-REST_API-000000?style=flat" />
 </div>
 
 <h3>Back-end</h3>
@@ -34,14 +30,15 @@
   <img height="24px" src="https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js" />
   <img height="24px" src="https://img.shields.io/badge/-Express-000000?style=flat&logo=express" />
   <img height="24px" src="https://img.shields.io/badge/-NestJS-000000?style=flat&logo=nestjs" />
-  <img height="24px" src="https://img.shields.io/badge/-Drizzle_ORM-000000?style=flat&logo=drizzle" />
+  <img height="24px" src="https://img.shields.io/badge/-Drizzle_ORM-000000?style=flat" />
   <img height="24px" src="https://img.shields.io/badge/-Prisma-000000?style=flat&logo=prisma" />
   <img height="24px" src="https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql" />
-  <img height="24px" src="https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql" />
   <img height="24px" src="https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb" />
-  <img height="24px" src="https://img.shields.io/badge/-Sequelize-000000?style=flat&logo=sequelize" />
+  <img height="24px" src="https://img.shields.io/badge/-Redis-000000?style=flat&logo=redis" />
+  <img height="24px" src="https://img.shields.io/badge/-Socket.IO-000000?style=flat&logo=socketdotio" />
   <img height="24px" src="https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens" />
   <img height="24px" src="https://img.shields.io/badge/-OAuth-000000?style=flat&logo=auth0" />
+  <img height="24px" src="https://img.shields.io/badge/-RBAC-000000?style=flat" />
 </div>
 
 <h3>Tools</h3>
@@ -49,14 +46,15 @@
   <img height="24px" src="https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma" />
   <img height="24px" src="https://img.shields.io/badge/-NPM-000000?style=flat&logo=npm" />
   <img height="24px" src="https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker" />
+  <img height="24px" src="https://img.shields.io/badge/-Azure-000000?style=flat&logo=microsoftazure" />
   <img height="24px" src="https://img.shields.io/badge/-Git-000000?style=flat&logo=git" />
-  <img height="24px" src="https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github" />
+  <img height="24px" src="https://img.shields.io/badge/-GitLab_CI-000000?style=flat&logo=gitlab" />
   <img height="24px" src="https://img.shields.io/badge/-VS_Code-000000?style=flat&logo=visual-studio-code" />
-  <img height="24px" src="https://img.shields.io/badge/-Photoshop-000000?style=flat&logo=adobe-photoshop" />
 </div>
 
 <h3>Other Skills</h3>
 <div>
+  <img height="24px" src="https://img.shields.io/badge/-CI/CD-000000?style=flat" />
   <img height="24px" src="https://img.shields.io/badge/-OOP-000000?style=flat" />
   <img height="24px" src="https://img.shields.io/badge/-Algorithms-000000?style=flat" />
   <img height="24px" src="https://img.shields.io/badge/-Parallel_Computing-000000?style=flat" />
