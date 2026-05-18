@@ -63,18 +63,18 @@
 
 <h1>Projects</h1>
 
-<!-- <h3>Syncr (Collaboration Platform)</h3>
-<p>Full-stack web app that helps teams and companies to integrate with real-time collaborative features and company-based workspace management. Built with NestJS, Drizzle ORM, PostgreSQL, and powered Svelte front-end.</p>
+<h3>Syncr</h3>
+<p>Full-stack project management and team collaboration app with Kanban task workflows, dashboards, calendars, realtime chat, notifications, team roles, and company workspace management. Built with a React frontend, NestJS API, PostgreSQL database, and Socket.IO realtime updates.</p>
 <ul>
-  <li>Svelte</li>
+  <li>React</li>
   <li>TypeScript</li>
-  <li>Vite</li>
   <li>NestJS</li>
-  <li>Drizzle ORM</li>
   <li>PostgreSQL</li>
-  <li>JWT Authentication</li>
+  <li>Drizzle ORM</li>
+  <li>Socket.IO</li>
+  <li>JWT</li>
 </ul>
-<a href="#">Demo (coming soon)</a> | <a href="#">Code</a> -->
+<a href="https://demo.syncr.cc">Demo</a> | <a href="https://github.com/kinqbert/syncr">Code</a>
 
 <h3>Nice Gadgets Store</h3>
 <p>Sleek and user-friendly shop for browsing mobile phones and other devices. It features a clean interface with search, filter, and sorting options, providing detailed phone specifications and images.</p>
@@ -100,14 +100,6 @@
   <li>BEM</li>
 </ul>
 <a href="https://kinqbert.github.io/react_todo-app/">Demo</a> | <a href="https://github.com/kinqbert/react_todo-app">Code</a>
-
-<h3>MyBike Landing Page</h3>
-<p>Responsive static website designed to highlight bicycles and related accessories. It features a modern user interface with smooth animations, built using HTML and SCSS. The site serves as an excellent template for bike-related businesses or product showcases.</p>
-<ul>
-  <li>HTML</li>
-  <li>Sass (SCSS)</li>
-  <li>BEM</ul>
-<a href="https://kinqbert.github.io/my-bike-landing/">Demo</a> | <a href="https://github.com/kinqbert/my-bike-landing">Code</a>
 
 <h1>My contacts</h1>
 <div>
