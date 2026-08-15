@@ -2,7 +2,7 @@
 
 <h1>About me</h1>
 <ul>
-  <li>Full-stack developer with 1.5 years of professional experience in modern web technologies</li>
+  <li>Full-stack developer with 2 years of professional experience in modern web technologies</li>
   <li>Strong focus on clean architecture, maintainability, and performance optimization</li>
   <li>Advanced English proficiency (C1 level)</li>
   <li>Proven leadership and collaboration skills within development teams</li>
