@@ -89,18 +89,6 @@
 </ul>
 <a href="https://fs-mar24-kyrylos-witnesses.github.io/phone-catalog/">Demo</a> | <a href="https://github.com/fs-mar24-kyrylos-witnesses/phone-catalog">Code</a>
 
-<h3>ToDo App</h3>
-<p>Task management tool built with React and TypeScript, using local storage for persistence. It allows adding, deleting, and modifying tasks, with filtering options to view all, active, or completed assignments, and is styled with Bulma and FontAwesome.</p>
-<ul>
-  <li>React</li>
-  <li>TypeScript</li>
-  <li>FontAwesome</li>
-  <li>Bulma</li>
-  <li>Sass (SCSS)</li>
-  <li>BEM</li>
-</ul>
-<a href="https://kinqbert.github.io/react_todo-app/">Demo</a> | <a href="https://github.com/kinqbert/react_todo-app">Code</a>
-
 <h1>My contacts</h1>
 <div>
   <a href="https://t.me/perekhodko_m"><img height="24px" src="https://img.shields.io/badge/-Telegram-000000?style=flat&logo=telegram" /></a>
