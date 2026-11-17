@@ -5,7 +5,6 @@
 ## About me
 
 - Full-stack engineer with 2+ years of commercial experience in modern web technologies
-- Currently building AI agent tooling at Nomic AI; previously Sombra (FinTech) and OmiSoft (AI & real-time systems)
 - Strong focus on clean architecture, maintainability, and performance optimization
 - Advanced English proficiency (C1)
 - Proven leadership and collaboration skills within development teams
