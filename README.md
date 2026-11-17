@@ -1,11 +1,13 @@
 <a href="https://kinqbert.dev">
-  <img src="https://raw.githubusercontent.com/kinqbert/kinqbert-portfolio/master/branding/github-banner.png" alt="Maksym Perekhodko — Full-stack engineer" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kinqbert/kinqbert-portfolio/master/branding/github-banner-dark.png">
+    <img src="https://raw.githubusercontent.com/kinqbert/kinqbert-portfolio/master/branding/github-banner-light.png" alt="Maksym Perekhodko — Full-stack engineer" width="100%">
+  </picture>
 </a>
 
 ## About me
 
 - Full-stack engineer with 2+ years of commercial experience in modern web technologies
-- Currently building AI agent tooling at Nomic AI; previously Sombra (FinTech) and OmiSoft (AI & real-time systems)
 - Strong focus on clean architecture, maintainability, and performance optimization
 - Advanced English proficiency (C1)
 - Proven leadership and collaboration skills within development teams
