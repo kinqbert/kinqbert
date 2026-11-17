@@ -7,7 +7,7 @@
 
 ## About me
 
-- Full-stack engineer with 2+ years of commercial experience in modern web technologies
+- Full-stack engineer with 2+ years of commercial experience
 - Strong focus on clean architecture, maintainability, and performance optimization
 - Advanced English proficiency (C1)
 - Proven leadership and collaboration skills within development teams
